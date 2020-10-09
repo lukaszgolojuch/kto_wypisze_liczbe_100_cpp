@@ -4,12 +4,7 @@
     Projekt z przedmiotu: Techniki Programowania
     Język programu: C++
 
-    Data rozpoczęcia tworzenia: 21.03.2020r.
-    Data ukończenia tworzenia: 01.06.2020r.
     Autor programu: Łukasz Gołojuch
-    Kierunek: Informatyka niestacjonarne
-    Uczelnia: Politechinka Gdańska wydział ETI
-    Numer indeksu: 175520
 
 ## Opis programu 
 
